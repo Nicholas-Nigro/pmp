@@ -20,13 +20,14 @@ body{
 }
 .nn{
     text-align: start;
-    font-style: italic;
+    font-family: monospace;
     color: white;
 
 }
 .abt{
     text-align: center;
     color: white;
+    font-family: monospace;
 
 }
 
@@ -34,6 +35,7 @@ body{
     text-align: end;
     margin: 1%;
     color: white;
+    font-family: monospace;
 }
 .ht{
     width: 100px;
