@@ -1,0 +1,57 @@
+body{
+    background-image: url(./imagens/tst2.jpg);
+    text-align: center;
+}
+.git{
+    width: 100px;
+    height: 100px;
+}
+.lnk{
+    width: 100px;
+    height: 100px;
+}
+.me{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 0.5%;
+    top: 13%;
+    
+}
+.nn{
+    text-align: start;
+    font-style: italic;
+    color: white;
+
+}
+.abt{
+    text-align: center;
+    color: white;
+
+}
+
+.lng{
+    text-align: end;
+    margin: 1%;
+    color: white;
+}
+.ht{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 1%;
+    top: 20%;
+
+}
+.cs{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 9%;
+    top: 20%;
+
+}
+.inst{
+    width: 100px;
+    height: 100px;
+}
